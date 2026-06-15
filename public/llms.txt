@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-cde664be.zappy5.app
+https://example.com
 חנות הסקווישים המובילה בישראל מזמינה אתכם לצלול לאוסף ענק של צעצועים רכים וממכרים. קנו עכשיו big bad toystore ותיהנו ממשלוח מהיר עד הבית!
 
 ### אודות
-https://-cde664be.zappy5.app/about
+https://example.com/about
 הכירו את גלי מתקדמת, מותג הסקווישים שמוביל את תחום fall guys toys בישראל עם גישה חדשנית, איכות ללא פשרות ואהבה אמיתית לאספנות צעצועים.
 
 ### רעיונות למתנות
-https://-cde664be.zappy5.app/gift-ideas
+https://example.com/gift-ideas
 מחפשים רעיון מקורי? גלו רעיונות למתנות עם vintage toys for sale, star trek collectibles ועוד סקווישים שישמחו ילדים, נוער ואספנים בכל גיל!
 
 ### צור קשר
-https://-cde664be.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על big bad toystore או fall guys toys? צרו קשר עם צוות גלי מתקדמת עוד היום ונשמח לעזור לכם למצוא את הסקוויש המושלם לאוסף שלכם!
 
 ### Products
-https://-cde664be.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גלי מתקדמת
 
 ### Product Detail
-https://-cde664be.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גלי מתקדמת
 
 ### Category
-https://-cde664be.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גלי מתקדמת
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-cde664be.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-cde664be.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-cde664be.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -73,8 +73,8 @@ Toys & Collectibles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-cde664be.zappy5.app/sitemap.xml
-- Robots: https://-cde664be.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-cde664be.zappy5.app/llms-full.txt
-- Products (JSON): https://-cde664be.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-cde664be.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
